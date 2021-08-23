@@ -1,6 +1,6 @@
 # My Introduction 
 
-![<img src="img.png" width="200" height="201">](img.png)
+![](img.png){:width="200px" height="201px"}
 
 * Name : Kodchamol Aukkarabenjasiri  
 * Nickname : yok  
