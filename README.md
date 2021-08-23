@@ -1,6 +1,6 @@
 # My Introduction 
 
-![](img.png){ width=50% }
+![](img.png){:height="60px" width="50px" }
 
 * Name : Kodchamol Aukkarabenjasiri  
 * Nickname : yok  
