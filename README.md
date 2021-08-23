@@ -1,6 +1,6 @@
 # My Introduction 
 
-![](img.png)
+![](img.png =100x20)
 
 * Name : Kodchamol Aukkarabenjasiri  
 * Nickname : yok  
